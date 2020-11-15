@@ -1,0 +1,8 @@
+.header {
+    background-image: url('../../../Image & Icon/edgar-chaparro-sHfo3WOgGTU-unsplash.jpg');  
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+    margin-bottom: 120px;
+    opacity: .9;
+}
